@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: bigdata_lib
-Version: 0.1
+Version: 0.2
 Summary: A Python library for various big data structures including graphs, trees, and more.
 Home-page: https://github.com/AdityaSrivastavDS/bigdata_lib
 Author: Aditya
